@@ -1,2 +1,2 @@
 # P6
-jQuery、skipper、Ajax
+jQuery、skippr、Ajax
